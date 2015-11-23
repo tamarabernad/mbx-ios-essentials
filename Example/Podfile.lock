@@ -1,0 +1,17 @@
+PODS:
+  - Kiwi (2.4.0)
+  - MBXiOSEssentials (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - MBXiOSEssentials (from `../`)
+
+EXTERNAL SOURCES:
+  MBXiOSEssentials:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  MBXiOSEssentials: e19b5accec859d89577ccc6fe7f85b7ce8254601
+
+COCOAPODS: 0.39.0
